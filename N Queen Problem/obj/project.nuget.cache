@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G+YjGyUsonvHdvRdGkT9GiYXp/w3BstzGhevplmiJtGfAkbaf00b37qPo4o3by+lR8orasmMs1T5is8N6KAInA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Furkan\\source\\repos\\N Queen Problem\\N Queen Problem\\N Queen Problem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Furkan\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

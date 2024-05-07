@@ -1,0 +1,18 @@
+C:\Users\Furkan\source\repos\N Queen Problem\N Queen Problem\bin\Debug\net5.0\N Queen Problem.exe
+C:\Users\Furkan\source\repos\N Queen Problem\N Queen Problem\bin\Debug\net5.0\N Queen Problem.deps.json
+C:\Users\Furkan\source\repos\N Queen Problem\N Queen Problem\bin\Debug\net5.0\N Queen Problem.runtimeconfig.json
+C:\Users\Furkan\source\repos\N Queen Problem\N Queen Problem\bin\Debug\net5.0\N Queen Problem.runtimeconfig.dev.json
+C:\Users\Furkan\source\repos\N Queen Problem\N Queen Problem\bin\Debug\net5.0\N Queen Problem.dll
+C:\Users\Furkan\source\repos\N Queen Problem\N Queen Problem\bin\Debug\net5.0\N Queen Problem.pdb
+C:\Users\Furkan\source\repos\N Queen Problem\N Queen Problem\obj\Debug\net5.0\N Queen Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\source\repos\N Queen Problem\N Queen Problem\obj\Debug\net5.0\N Queen Problem.AssemblyInfoInputs.cache
+C:\Users\Furkan\source\repos\N Queen Problem\N Queen Problem\obj\Debug\net5.0\N Queen Problem.AssemblyInfo.cs
+C:\Users\Furkan\source\repos\N Queen Problem\N Queen Problem\obj\Debug\net5.0\N Queen Problem.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\N Queen Problem\N Queen Problem\obj\Debug\net5.0\N Queen Problem.dll
+C:\Users\Furkan\source\repos\N Queen Problem\N Queen Problem\obj\Debug\net5.0\refint\N Queen Problem.dll
+C:\Users\Furkan\source\repos\N Queen Problem\N Queen Problem\obj\Debug\net5.0\N Queen Problem.pdb
+C:\Users\Furkan\source\repos\N Queen Problem\N Queen Problem\obj\Debug\net5.0\N Queen Problem.genruntimeconfig.cache
+C:\Users\Furkan\source\repos\N Queen Problem\N Queen Problem\obj\Debug\net5.0\ref\N Queen Problem.dll
+C:\Users\Furkan\source\repos\N Queen Problem\N Queen Problem\bin\Debug\net5.0\OxyPlot.dll
+C:\Users\Furkan\source\repos\N Queen Problem\N Queen Problem\obj\Debug\net5.0\N Queen Problem.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\N Queen Problem\N Queen Problem\obj\Debug\net5.0\N Queen Problem.csproj.CopyComplete
